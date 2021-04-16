@@ -1,4 +1,4 @@
-# Testinium-Project
+
 
 Selenium Web Otomasyon
 - www.gittigidiyor.com sitesi açılır.
